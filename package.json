@@ -1,8 +1,9 @@
 {
   "name": "node-sspi",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Windows SSPI server-side authentication for Node",
   "main": "index.js",
+  "typings": "index.d.ts",
   "author": "Fred Wen<wenfred@gmail.com>",
   "license": "MIT",
   "scripts": {
